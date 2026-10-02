@@ -57,7 +57,7 @@ The prototype used a solderless breadboard and a large number of jumper wires, w
 
 I would also look at improving the sensor and motor-control hardware and using a more refined control method to make steering smoother.
 
-## Skills Used
+## Technologies & Skills
 
 `Arduino` `Embedded C/C++` `Analog Electronics` `Sensors` `DC Motors` `Transistors` `Breadboarding` `Hardware Debugging` `Hardware/Software Integration`
 
