@@ -10,15 +10,15 @@ Specific design details, source code, and schematics are intentionally not inclu
 
 ### Top View
 
-![Top view of the robot](./images/RobotTop.jpg)
+![Top view](./images/RobotTop.jpg)
 
 ### Side View
 
-![Side view of the robot](./images/RobotSide.jpg)
+![Side view](images/RobotSide.jpg)
 
 ### Front View
 
-![Front view of the robot](./images/RobotFront.jpg)
+![Front view](./images/RobotFront.jpg)
 
 The completed robot was built around an Arduino Uno with the supporting circuitry assembled on a solderless breadboard. Sensors mounted near the front of the chassis were used to detect the track, while two independently controlled motors allowed the robot to make steering corrections.
 
