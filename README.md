@@ -31,11 +31,9 @@ Once the individual parts were working, most of the remaining work involved test
 
 One of the more useful parts of the project was seeing how much harder troubleshooting becomes once several systems are interacting. Problems with the robot's behavior could come from the circuit, sensor readings, software, mechanical setup, or connections between components.
 
-For example, sensor behavior that appeared consistent while testing the circuit by itself was not always as consistent once the motors and the rest of the robot were operating. The breadboard construction also meant that vibration and movement could occasionally affect connections.
+For example, sensor behavior that appeared consistent while testing the circuit by itself was not always as consistent once the motors and the rest of the robot were operating. The breadboard construction also meant that vibration and movement could occasionally affect connections. Working through these problems required testing parts of the system independently before testing the complete robot again.
 
-Working through these problems required testing parts of the system independently, comparing their behavior, and making changes before testing the complete robot again.
-
-## What I Learned
+## Project Takeaways
 
 This was one of my first projects that required combining several parts of an electrical/computer engineering system into one working device.
 
@@ -51,7 +49,7 @@ The project gave me practical experience with:
 - Circuit testing
 - Systematic troubleshooting
 
-The biggest takeaway was that getting each part working individually was only part of the project. Once everything was connected together, interactions between the electrical, software, and mechanical parts introduced problems that were not always present during individual testing.
+One of the biggest takeaways was that getting each part working individually was only part of the project. Once everything was connected together, interactions between the electrical, software, and mechanical parts introduced problems that were not always present during individual testing.
 
 ## What I Would Change
 
@@ -67,4 +65,6 @@ I would also look at improving the sensor and motor-control hardware and using a
 
 ---
 
-*Source code, schematics, component values, and other implementation details have been omitted because this project continues to be used as a course assignment.*
+## Project Materials
+
+This project was completed as university coursework. Source code, schematics, component values, and other implementation details are kept private to preserve academic integrity and are available upon request for professional review.
