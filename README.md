@@ -4,8 +4,6 @@ This project was completed as part of an Electrical and Computer Engineering lab
 
 The goal was to design and build an autonomous robot capable of following a track using an Arduino, optical sensors, and independently controlled DC motors. The project involved circuit design and prototyping, embedded programming, sensor calibration, hardware/software integration, and troubleshooting.
 
-Specific design details, source code, and schematics are intentionally not included because this project is used as a course assignment.
-
 ## Finished Robot
 
 The completed robot was built around an Arduino Uno with the supporting circuitry assembled on a solderless breadboard. Sensors mounted near the front of the chassis were used to detect the track, while two independently controlled motors allowed the robot to make steering corrections.
@@ -65,6 +63,6 @@ I would also look at improving the sensor and motor-control hardware and using a
 
 ---
 
-## Project Materials
+## Source Code & Design Files
 
 This project was completed as university coursework. Source code, schematics, component values, and other implementation details are kept private to preserve academic integrity and are available upon request for professional review.
