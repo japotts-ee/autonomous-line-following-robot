@@ -8,6 +8,8 @@ Specific design details, source code, and schematics are intentionally not inclu
 
 ## Finished Robot
 
+The completed robot was built around an Arduino Uno with the supporting circuitry assembled on a solderless breadboard. Sensors mounted near the front of the chassis were used to detect the track, while two independently controlled motors allowed the robot to make steering corrections.
+
 ### Top View
 
 ![Top view](./images/RobotTop.jpg)
@@ -20,7 +22,6 @@ Specific design details, source code, and schematics are intentionally not inclu
 
 ![Front view](./images/RobotFront.jpg)
 
-The completed robot was built around an Arduino Uno with the supporting circuitry assembled on a solderless breadboard. Sensors mounted near the front of the chassis were used to detect the track, while two independently controlled motors allowed the robot to make steering corrections.
 
 ## Project Overview
 
