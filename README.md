@@ -14,7 +14,7 @@ Specific design details, source code, and schematics are intentionally not inclu
 
 ### Side View
 
-![Side view of the robot](images/RobotSide.jpg)
+![Side view of the robot](./images/RobotSide.jpg)
 
 ### Front View
 
